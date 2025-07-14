@@ -1,4 +1,4 @@
-# Project-1
+# Project-2
 Mobile Phone Pricing
 <img width="961" height="626" alt="image" src="https://github.com/user-attachments/assets/5ce9d006-a7ae-4120-9d52-e20a451b6e28" />
 
