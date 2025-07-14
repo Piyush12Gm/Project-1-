@@ -39,6 +39,8 @@ price_range : This is the target variable with value of:
 We will proceed with reading the data, and then perform data analysis. The practice of examining data using analytical or statistical methods in order to identify meaningful information is known as data analysis. After data analysis, we will find out the data distribution and data types. We will train 3 classification algorithms to predict the output. We will also compare the outputs. Let us get started with the project implementation. We finally predict the price range for 1000 usseen data.
 
 # Algorithms:
+-  Linear Regression
 -  Support Vector Machine (SVM)
+-  k-nearest neighbor algorithm(KNN)
 -  Decision Tree (DT)
--  Random Forest (RF)
+-  Random Forest (RF) 
